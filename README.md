@@ -1,11 +1,11 @@
 # An Instance Of Responsive Video Gallery 
 
 For Compiling Videos of Andrew Yangs Campaign
-With GIF Background and Custom CSS By Moonpixel 
+With GIF Background and Custom CSS By Johnny Morrow
 
 
 
 
-An Instance of Responsive Video Gallery By Angela J. Holden
+Based On An Instance of Responsive Video Gallery By 
 
 https://github.com/angelajholden/responsivevideogallery
