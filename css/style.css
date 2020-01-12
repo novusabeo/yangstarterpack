@@ -174,6 +174,10 @@ section {
   width: 50%;
   margin: 10% auto;
   text-align: center;
+background: rgba(60, 102, 165, 0.1);
+
+
+
 }
 @media (max-width: 768px) {
   .first p {
@@ -205,6 +209,7 @@ section {
   border-radius: 10px;
   text-decoration: none;
   transition: all, 0.3s, ease;
+  
 }
 @media (max-width: 1024px) {
   .buttons li a {
@@ -215,6 +220,8 @@ section {
 .buttons li a:hover, .buttons li a:active, .buttons li a:focus {
   background: none;
   border: 2px solid #fff;
+  
+  
 }
 
 /* Second Section */
@@ -347,7 +354,7 @@ footer {
 */
 .scroll-top:hover {
   color: #fff !important;
-  background-color: #333;
+  background-color: #b342a4;
   text-decoration: none;
   border-bottom: none;
 }
